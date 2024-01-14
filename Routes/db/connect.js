@@ -1,0 +1,1 @@
+const connectionString = "mongodb+srv://arnold:14975@cluster0.h5awjfo.mongodb.net/TASK-GITMANAGER?retryWrites=true&w=majority"
